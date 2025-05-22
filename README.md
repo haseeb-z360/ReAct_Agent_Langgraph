@@ -13,7 +13,7 @@ This project implements a ReAct (Reasoning + Acting) agent using LangGraph and L
   
 ---
 
-![Alt text]("agent_image .png")
+![Alt text](agent_image .png")
 
 ## Features
 
